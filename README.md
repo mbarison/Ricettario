@@ -1,3 +1,3 @@
 # Ricettario
 
-- [japanese_beef_stew.md](Japanese beef stew)
+- [Japanese beef stew](japanese_beef_stew.md)
