@@ -2,6 +2,8 @@
 
 Adapted from NHK’s Dining with the Chef
 
+## Ingredients
+
     3-4 lb. beef chuck roast, cut into large chunks roughly 3 inches in size
     1 onion, peeled and cut in large chunks
     1 carrot, peeled and cut Iarge chunks
@@ -18,6 +20,8 @@ Adapted from NHK’s Dining with the Chef
     1 cube chicken bouillon
     Salt to taste
     Freshly cooked rice, for serving
+
+## Preparation
 
 In a food processor, drop in the pieces of onion, carrot, celery, garlic cloves, tomato paste and tomatoes with their juices. Pulse until smooth.
 
