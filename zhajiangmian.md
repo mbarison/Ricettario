@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-    fresh noodles for serving ,instruction for handmade noodles
+    fresh noodles for serving
     
-    fresh cucumber as needed ,shredded
-    carrots as needed ,shredded
-    white scallion  as needed ,shredded
+    fresh cucumber as needed, shredded
+    carrots as needed, shredded
+    white scallion as needed, shredded
 
     400 g minced pork, or diced pork belly
     1 inch root ginger, finely chopped
