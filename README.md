@@ -6,3 +6,4 @@
 - [Vitello alla toscana](vitello_toscana.md)
 - [Namasu](namasu.md)
 - [Zhajiangmian](zhajiangmian.md)
+- [Dandelion, beans and brown rice salad](dandelion_salad.md)
